@@ -1,1 +1,1 @@
-# Composite
+![Composite](img/composite.png)
